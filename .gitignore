@@ -1,0 +1,56 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+*.VC.db
+*.VC.VC.opendb
+*.ipch
+*.aps
+*.sdf
+*.opensdf
+*.tlog
+*.log
+*.idb
+*.pdb
+*.ilk
+*.obj
+*.o
+*.pch
+*.dt.json
+*.dt.module.json
+*.command
+*.recipe
+*.lastbuildstate
+*.iobj
+*.ipdb
+*.exp
+*.lib
+
+# Build output
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+Win32/
+[Bb]in/
+[Oo]bj/
+build/
+out/
+cmake-build-*/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CMakeUserPresets.json
+
+# Executables
+*.exe
+*.out
+
+# Other IDEs / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
